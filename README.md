@@ -26,3 +26,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdicher&show_icons=true&locale=en" alt="mehdicher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdicher&" alt="mehdicher" /></p>
+
+## 🌊 Diving Deep Into Skills
+```
+🛡️ Security : Network Security, Penetration Testing, Cryptography
+🌐 Networking : TCP/IP, DNS, Firewalls
+💻 Programming : Python, Bash, PowerShell
+🔧 Tools : Wireshark, Nmap, Metasploit
+```
+
+## 🎯 Current Explorations
+```
+🌌 Exploring the depths of Network Security
+🌊 Diving into Advanced Cryptography
+🚀 Launching new Security Projects
+```
+
