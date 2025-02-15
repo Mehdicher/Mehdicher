@@ -57,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="45" height="45" alt="JupyterHub"/>
   <img src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" width="45" height="45" alt="Kubeflow"/>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.manektech.com/storage/developer/1646733543.webp" alt="express" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" alt="express" width="40" height="40"/> </a>
 </p>
 
 ### Databases
