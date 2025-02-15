@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;It+takes+20+years+to+build+a+reputation+and+a+few+minutes+of+cyber-incident+to+ruin+it;In+a+world+of+deceit,+telling+the+truth+is+a+revolutionary+act;We+are+not+defined+by+our+numbers+but+by+our+actions;We+don’t+hack+systems;+we+expose+the+flaws+in+the+system)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;It+takes+20+years+to+build+a+reputation;+and+a+few+minutes+of+cyber-incident;+to+ruin+it.;We+don’t+hack+systems;+we+expose+the+flaws+in+the+system.)](https://git.io/typing-svg)
 
 
 </div>
