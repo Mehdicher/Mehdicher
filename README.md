@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdicher&" alt="mehdicher" /></p>
 
-## 🌊 Diving Deep Into Skills
+## 🌊 Tech Stack
 ```
 🛡️ Security : Network Security, Penetration Testing, Cryptography
 🌐 Networking : TCP/IP, DNS, Firewalls
