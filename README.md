@@ -41,4 +41,64 @@
 🌊 Diving into Advanced Cryptography
 🚀 Launching new Security Projects
 ```
+## 🛸 Technologies & Expertise
 
+### Operating Systems & Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="45" height="45" alt="Arduino"/>
+</p>
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp" />
+</p>
+
+### Frameworks & Runtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="45" height="45" alt="JupyterHub"/>
+  <img src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" width="45" height="45" alt="Kubeflow"/>
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45" height="45" alt="Oracle SQL"/>
+</p>
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,aws,gcp" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45" height="45" alt="Ansible"/>
+</p>
+
+### IDEs & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="45" height="45" alt="PyCharm"/>
+</p>
+
+### Security Tools & Technologies
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45" alt="Wireshark"/>
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" height="45" alt="Metasploit"/>
+  <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="45" height="45" alt="Snort IDS"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" height="45" alt="Nmap"/>
+</p>
+
+### Enterprise & Administration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
+</p>
+
+### Additional Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzk22Y2JAiVkmTYkAdQinJL9_dHJFAyPaRw&s" alt="GHIDRA"/>
+</p>
+
+<div align="center">
+  <i>And many more tools and technologies...</i>
+</div>
