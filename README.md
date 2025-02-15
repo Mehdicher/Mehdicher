@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehdi cherkaoui omari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi cherkaoui omari" height="30" width="40" /></a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdicher&show_icons=true&locale=en&layout=compact" alt="mehdicher" /></p>
@@ -97,6 +98,7 @@
   <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
+  <img src="https://www.checkpoint.com/wp-content/uploads/splunk-logo-floating-hero-image.png" alt="Splunk" width="40" height="40"/>
 </p>
 
 <div align="center">
