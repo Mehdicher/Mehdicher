@@ -91,7 +91,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=powershell" />
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
-  <img src="https://skillicons.dev/icons/Elasticsearch-Dark.svg" />
+  <img src="https://skillicons.dev/icons/Elasticsearch-Dark.svg" alt="elasticsearch"/>
 </p>
 
 ### Additional Tools
