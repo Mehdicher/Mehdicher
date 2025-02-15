@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mehdi CHERKAOUI OMARI</h1>
 <h3 align="center">Cybersecurity Student | SOC Architect | Cloud Computing | CTF Player | Passionate about the ever-evolving world of cybersecurity 🛡️,Real-Time Log Analysis, penetration testing 🔒📊, dedicated to safeguarding digital landscapes 🔒</h3>
 
+
+
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;It+takes+20+years+to+build+a+reputation+and+a+few+minutes+of+cyber-incident+to+ruin+it;In+a+world+of+deceit,+telling+the+truth+is+a+revolutionary+act;We+are+not+defined+by+our+numbers+but+by+our+actions;We+don’t+hack+systems;+we+expose+the+flaws+in+the+system)](https://git.io/typing-svg)
 
-</div>
 
+</div>
 
 <img align="right" alt="CyberSecurity" width="400" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
 
