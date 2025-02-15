@@ -98,7 +98,7 @@
   <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-  <img src="https://www.checkpoint.com/wp-content/uploads/splunk-logo-floating-hero-image.png" alt="Splunk" width="60" height="40"/>
+  <img src="https://www.checkpoint.com/wp-content/uploads/splunk-logo-floating-hero-image.png" alt="Splunk" width="100" height="40"/>
 </p>
 
 <div align="center">
