@@ -91,13 +91,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=powershell" />
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
-  <img src="https://skillicons.dev/icons/Elasticsearch-Dark.svg" alt="elasticsearch"/>
 </p>
 
 ### Additional Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzk22Y2JAiVkmTYkAdQinJL9_dHJFAyPaRw&s" alt="GHIDRA"/>
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
 <div align="center">
