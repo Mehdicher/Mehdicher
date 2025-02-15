@@ -2,11 +2,7 @@
 <h3 align="center">Cybersecurity Student | SOC Architect | Cloud Computing | CTF Player | Passionate about the ever-evolving world of cybersecurity 🛡️,Real-Time Log Analysis, penetration testing 🔒📊, dedicated to safeguarding digital landscapes 🔒</h3>
 
 
-
-
-
-
-
+<img align="right" alt="CyberSecurity" width="400" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
 
 
 - 🔭 I’m currently working on [Implementation of a SOC and System Security Reinforcement](https://pdf.ac/1MaJ20)
