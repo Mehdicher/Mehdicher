@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdicher&" alt="mehdicher" /></p>
 
-## 🌊 Tech Stack
+## 💻 Tech Stack
 ```
 🛡️ Security : Network Security, Penetration Testing, Cryptography
 🌐 Networking : TCP/IP, DNS, Firewalls
@@ -33,7 +33,7 @@
 🔧 Tools : Wireshark, Nmap, Metasploit
 ```
 
-## 🎯 Current Explorations
+## 🎯 Current Explorations 
 ```
 🌌 Exploring the depths of Network Security
 🌊 Diving into Advanced Cryptography
