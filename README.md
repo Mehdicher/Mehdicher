@@ -7,7 +7,7 @@
 
 </div>
 
-<img align="right" alt="CyberSecurity" width="380" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
+<img align="right" alt="CyberSecurity" width="380" src="https://github.com/user-attachments/assets/3442a0fd-5ef4-48df-8b62-8b2a6089cf4c">
 
 - 🎓 Recently graduated **Cybersecurity & Computer Science Engineer** — EIDIA (École Digitale et Intelligence Artificielle), UEMF, Fès, Morocco
 - 💼 Completed my End-of-Studies Engineering Project (PFE) at **DXC Technology, Rabat**, building an **AI-powered Mini-SOAR platform** (TheHive, Cortex, MISP, Wazuh, Django, LLM-assisted investigation)
