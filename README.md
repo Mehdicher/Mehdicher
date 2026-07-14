@@ -1,115 +1,89 @@
-<h1 align="center">Hi 👋, I'm Mehdi CHERKAOUI OMARI</h1>
-<h3 align="center">Cybersecurity Student | SOC Architect | Cloud Computing | CTF Player | Passionate about the ever-evolving world of cybersecurity 🛡️,Real-Time Log Analysis, penetration testing 🔒📊, dedicated to safeguarding digital landscapes 🔒</h3>
-
-
+<h1 align="center">Hi 👋, I'm Mehdi Cherkaoui Omari</h1>
+<h3 align="center">Cybersecurity & Software Engineer | SOC Automation • AI-Driven Security</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;It+takes+20+years+to+build+a+reputation;+and+a+few+minutes+of+cyber-incident;+to+ruin+it.;We+don’t+hack+systems;+we+expose+the+flaws+in+the+system.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=650&lines=Cybersecurity+%26+Computer+Science+Engineer;Building+AI-Powered+SOC+Automation;Detect.+Investigate.+Respond.;Open+to+Cybersecurity+%26+SOC+Engineering+Roles)](https://git.io/typing-svg)
 
 </div>
 
-<img align="right" alt="CyberSecurity" width="400" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
+<img align="right" alt="CyberSecurity" width="380" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
 
-
-- 🔭 I’m currently working on [Implementation of a SOC and System Security Reinforcement](https://pdf.ac/1MaJ20)
-
-- 🌱 I’m currently learning **Network security/Bug Bounty/penetration Testing**
-
-- 📫 How to reach me **mehdi.cherkaoui14@gmail.com**
+- 🎓 Recently graduated **Cybersecurity & Computer Science Engineer** — EIDIA (École Digitale et Intelligence Artificielle), UEMF, Fès, Morocco
+- 💼 Completed my End-of-Studies Engineering Project (PFE) at **DXC Technology, Rabat**, building an **AI-powered Mini-SOAR platform** (TheHive, Cortex, MISP, Wazuh, Django, LLM-assisted investigation)
+- 🔐 Previously interned at **DXC Technology** on regulatory compliance (Loi 25 / PIPEDA)
+- 📜 Certified: **PowerDMARC – Email Authentication Fundamentals** · **CompTIA Security+** *(in progress)*
+- 🎯 Actively seeking opportunities in **Cybersecurity, SOC Engineering & Security Automation**
+- 📫 Reach me at **mehdi.cherkaoui14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mehdi-cherkaoui-omari-88a5a5307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi cherkaoui omari" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/mehdi-cherkaoui-omari-88a5a5307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi cherkaoui omari" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdicher&show_icons=true&locale=en&layout=compact" alt="mehdicher" /></p>
+<br clear="right"/>
+
+## 🛠️ Core Stack
+
+**Security & SOC**
+<p align="left">
+<img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="32" height="32" alt="Elasticsearch"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="32" height="32" alt="Kibana"/>
+<img src="https://www.checkpoint.com/wp-content/uploads/splunk-logo-floating-hero-image.png" alt="Splunk" width="90" height="32"/>
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="32" height="32" alt="Wireshark"/>
+<img src="https://nmap.org/images/nmap-logo-256x256.png" width="32" height="32" alt="Nmap"/>
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="32" height="32" alt="Metasploit"/>
+<img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="32" height="32" alt="Snort IDS"/>
+</p>
+
+*TheHive · Cortex · MISP — SOC case management & threat intel*
+
+**AI & Automation**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+*Ollama · Llama 3.1 — local LLM-assisted alert investigation*
+
+**Programming**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,bash,java,c" />
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="32" height="32" alt="PowerShell"/>
+</p>
+
+**Systems, Networking & Cloud**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=windows,linux,docker,kubernetes,git,github,gitlab,aws,gcp" />
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="32" height="32" alt="Ansible"/>
+</p>
+
+*Active Directory · TCP/IP · DNS · Firewalls*
+
+**Databases**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="32" height="32" alt="Oracle SQL / PL-SQL"/>
+</p>
+
+**Reverse Engineering & IDEs**
+<p align="left">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzk22Y2JAiVkmTYkAdQinJL9_dHJFAyPaRw&s" width="32" height="32" alt="Ghidra"/>
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="32" height="32" alt="JetBrains"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdicher&show_icons=true&locale=en&layout=compact" alt="mehdicher" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdicher&show_icons=true&locale=en" alt="mehdicher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdicher&" alt="mehdicher" /></p>
 
-## 💻 Tech Stack
-```
-🛡️ Security : Network Security, Penetration Testing, Cryptography
-🌐 Networking : TCP/IP, DNS, Firewalls
-💻 Programming : Python, Bash, PowerShell
-🔧 Tools : Wireshark, Nmap, Metasploit
-```
-
-## 🎯 Current Explorations 
-```
-🌌 Exploring the depths of Network Security
-🌊 Diving into Advanced Cryptography
-🚀 Launching new Security Projects
-```
-## 🛸 Technologies & Expertise
-
-### Operating Systems & Environments
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="45" height="45" alt="Arduino"/>
-</p>
-
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp" />
-</p>
-
-### Frameworks & Runtime
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="45" height="45" alt="JupyterHub"/>
-  <img src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" width="45" height="45" alt="Kubeflow"/>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" alt="express" width="60" height="40"/> </a>
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45" height="45" alt="Oracle SQL"/>
-</p>
-
-### DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,aws,gcp" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45" height="45" alt="Ansible"/>
-</p>
-
-### IDEs & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="45" height="45" alt="PyCharm"/>
-</p>
-
-### Security Tools & Technologies
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45" alt="Wireshark"/>
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" height="45" alt="Metasploit"/>
-  <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="45" height="45" alt="Snort IDS"/>
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" height="45" alt="Nmap"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzk22Y2JAiVkmTYkAdQinJL9_dHJFAyPaRw&s" width="45" height="45" alt="GHIDRA"/>
-</p>
-
-### Enterprise & Administration
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
-</p>
-
-### Additional Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-  <img src="https://www.checkpoint.com/wp-content/uploads/splunk-logo-floating-hero-image.png" alt="Splunk" width="100" height="40"/>
-</p>
-
-<div align="center">
-  <i>And many more tools and technologies...</i>
-</div>
+<br clear="left"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mehdicher/Mehdicher/output/github-snake-dark.svg" />
